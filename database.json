@@ -2,121 +2,117 @@
   "profile": {
     "name": "Arifuzzaman Tanin",
     "email": "arifuzzaman.tanin@outlook.com",
-    "role": "Software Engineer (8+ years)",
+    "role": "Senior Full-Stack Developer",
     "phone": "+1 (437) 460-9212",
-    "location": "London, ON, Canada",
+    "location": "Toronto, ON, Canada",
     "image": "https://raw.githubusercontent.com/arifuzzaman-tanin/arifuzzaman-tanin-resume/refs/heads/main/assets/images/tanin.webp",
     "linkedin": "https://www.linkedin.com/in/tanin-arifuzzaman",
     "github": "https://github.com/arifuzzaman-tanin",
-    "about": "I am a results-driven Full Stack Developer with 9 years of experience, specializing in .NET technologies (.NET Core, ASP.NET MVC, Web API, Azure, gRPC), WCF, Entity Framework, and CI/CD using Azure DevOps. Skilled in frontend frameworks (Vue.js, Angular, React), secure coding, microservices, and distributed architectures. I emphasize secure development practices, shift-left testing, and OWASP guidelines (OAuth, OpenID Connect, SAML). I excel in application development, legacy IT integration, and agile practices."
+    "about": "Senior Full-Stack Software Engineer with 9+ years of experience developing web applications and backend services using C#, .NET Core, React, Next.js, Python, AWS, and Azure. Experienced in building REST APIs, microservices, and cloud-based solutions, with a growing focus on Generative AI, Machine Learning, RAG, AI agents, and MLOps. Strong background in SQL databases, CI/CD, Docker, Kubernetes, and application performance optimization. Experienced in leading technical discussions, mentoring developers, conducting code reviews, and collaborating with cross-functional teams to deliver reliable, scalable, and maintainable solutions."
   },
   "achievements": [
-    "IOT Certification: 4-Month Training under LICT, Bangladesh Government",
-    "Hacker Rank Problem Solving (Intermediate) Certification",
-    "Hacker Rank JavaScript (Intermediate) Certification",
-    "Hacker Rank JavaScript (Basic) Certification",
-    "Hacker Rank SQL (Advanced) Certification",
-    "Rest API (Intermediate) Certificate",
-    "National Hackathon Runners up 2014"
+    "Gen AI & ML Professional Program - Prepzee, August 2026",
+    "IoT Army of 300 Training Program - Bangladesh Computer Council (BCC), ICT Division",
+    "Bachelor of Science in Computer Science - American International University-Bangladesh, 2016"
   ],
   "skills": [
     {
-      "name": "C#, .NET",
+      "name": "LLM pipelines, RAG, agentic AI, LangChain, LangGraph, LlamaIndex, AutoGen, MCP, prompt engineering, embeddings, vector retrieval, OpenAI, Azure OpenAI, Amazon Bedrock",
+      "achieved": "80",
+      "title": "Generative AI",
+      "icon": "DesignPatternIcon",
+      "isHidden": false
+    },
+    {
+      "name": "scikit-learn, PyTorch, TensorFlow/Keras, predictive modeling, model evaluation, Ragas, MLOps workflows",
+      "achieved": "70",
+      "title": "Machine Learning & MLOps",
+      "icon": "PmIcon",
+      "isHidden": false
+    },
+    {
+      "name": "Python, NumPy, Pandas, Matplotlib",
+      "achieved": "70",
+      "title": "Python",
+      "icon": "CmIcon",
+      "isHidden": false
+    },
+    {
+      "name": "C#, .NET Core, ASP.NET Core Web API, REST APIs, GraphQL",
       "achieved": "80",
       "title": ".NET",
       "icon": "DotNetIcon",
       "isHidden": false
     },
     {
-      "name": "MSSQL, MySQL, NoSQL",
+      "name": "PostgreSQL, pgvector, ChromaDB, SQL Server, Redis, Elasticsearch, DynamoDB, Cosmos DB",
       "achieved": "80",
       "title": "Database",
       "icon": "DatabaseIcon",
       "isHidden": false
     },
     {
-      "name": "PHP(Laravel)",
-      "achieved": "80",
-      "title": "PHP",
-      "icon": "PhpIcon",
-      "isHidden": false
-    },
-    {
-      "name": "MVC, API, gRPC",
+      "name": "Microservices, serverless, event-driven systems, SOLID, DDD, CQRS, Clean Architecture",
       "achieved": "80",
       "title": "Rest API",
       "icon": "RestApiIcon",
       "isHidden": false
     },
     {
-      "name": "React, Vue.js, JQuery, Next",
+      "name": "TypeScript, JavaScript, React, Next.js, Redux, Angular, Vue.js",
       "achieved": "80",
       "title": "JavaScript",
       "icon": "JavaScriptIcon",
       "isHidden": false
     },
     {
-      "name": "Docker",
-      "achieved": "60",
-      "title": "Docker",
+      "name": "Docker, Kubernetes, EKS, ECS/Fargate, AKS, Azure Container Apps",
+      "achieved": "80",
+      "title": "Containers",
       "icon": "DockerIcon",
       "isHidden": false
     },
     {
-      "name": "Azure",
-      "achieved": "60",
+      "name": "Azure Functions, App Services, Service Bus, Event Hubs, Application Insights, Azure AI Foundry",
+      "achieved": "80",
       "title": "Azure",
       "icon": "AzureIcon",
       "isHidden": false
     },
     {
-      "name": "AWS",
-      "achieved": "60",
+      "name": "EC2, Lambda, S3, DynamoDB, API Gateway, RDS, SNS/SQS, CloudWatch, Glue, Athena",
+      "achieved": "80",
       "title": "AWS",
       "icon": "AwsIcon",
       "isHidden": false
     },
     {
-      "name": "Git",
+      "name": "Git, GitHub Actions, Azure DevOps, CI/CD, Terraform, Infrastructure as Code",
       "achieved": "80",
       "title": "Git",
       "icon": "GitIcon",
       "isHidden": false
     },
     {
-      "name": "Design Pattern",
+      "name": "Unit and integration testing, Playwright, Selenium, Zephyr, release validation, DevSecOps",
       "achieved": "80",
-      "title": "Design Pattern",
+      "title": "Testing & Delivery",
       "icon": "DesignPatternIcon",
       "isHidden": false
     },
     {
-      "name": "HTML",
-      "achieved": "80",
-      "title": "HTML",
-      "icon": "HtmlIcon",
-      "isHidden": false
-    },
-    {
-      "name": "CSS",
-      "achieved": "80",
-      "title": "CSS",
-      "icon": "CssIcon",
-      "isHidden": false
-    },
-    {
-      "name": "Project Management",
+      "name": "Agile/Scrum, JIRA, JIRA Align, Confluence, backlog refinement, code reviews, client-facing delivery",
       "achieved": "80",
       "title": "PM",
       "icon": "PmIcon",
-      "isHidden": true
+      "isHidden": false
     },
     {
-      "name": "Competitive Programming",
+      "name": "Datadog, Grafana, CloudWatch, Application Insights, incident analysis, production reliability",
       "achieved": "80",
-      "title": "CM",
+      "title": "Observability",
       "icon": "CmIcon",
-      "isHidden": true
+      "isHidden": false
     },
     {
       "name": "Cache(Redis)",
@@ -151,18 +147,26 @@
           }
         ]
       },
-      "position": "Software Engineer",
-      "jobType": "Fulltime",
-      "duration": "July 2023 To Present",
-      "location": "Toronto, Ontario, Canada",
+      "position": "Full-Stack Developer",
+      "jobType": "Fulltime, Permanent",
+      "duration": "July 2024 To Present",
+      "location": "Remote, Ontario, Canada",
       "responsibilities": [
-        "Developed a high-performance property listing platform using C#, .NET Core, AWS, gRPC, and modern front-end frameworks such as React, Next.js, and Angular, achieving a 15% increase in scalability and reliability.",
-        "Implemented gRPC and tRPC protocols for seamless inter-service communication, reducing API response times by 25% and enhancing system efficiency.",
-        "Integrated Elasticsearch to power intelligent, real-time property search and filtering, boosting query performance by 30% and improving user satisfaction.",
-        "Designed and delivered dynamic, responsive user interfaces for property discovery and management with React and Next.js, driving a 25% improvement in user engagement.",
-        "Streamlined development workflows by optimizing Angular-based components, enabling faster feature delivery and reducing project timelines by 15%.",
-        "Developed advanced analytics solutions to assess real estate market trends and property valuations, enhancing decision-making precision by 20%.",
-        "Optimized Entity Framework Core queries to deliver lightning-fast database operations, reducing response times for property searches by 20% and improving overall platform performance."
+        "Build and maintain Livabl.com and NewHomeSource.com features using C#, .NET Core, React, Next.js, TypeScript, PostgreSQL, AWS, REST APIs, and GraphQL, collaborating with Product and QA across the SDLC.",
+        "Develop Python-based RAG and AI-agent explorations with LangChain, LangGraph, ChromaDB, embeddings, vector search, MCP, and LLM integrations for knowledge retrieval and workflow automation, evaluating prompts and retrieval behavior.",
+        "Explore customer churn classification with scikit-learn, PyTorch, and TensorFlow and home-price regression using property, location, and historical listing data, assessing model performance.",
+        "Work with AWS Lambda, EKS, DynamoDB, and S3 alongside Azure Functions, AKS, Azure Container Apps, and Event Hubs for cloud-native and backend engineering.",
+        "Optimized Elasticsearch schemas, indexes, and queries across two real-estate platforms, contributing to a 30% search-performance improvement.",
+        "Support GitHub Actions and Docker CI/CD for two production websites, including automated testing, release validation, operational monitoring, and incident troubleshooting.",
+        "Use Redux, A/B testing, and advertising/tracking features, and review and validate AI-assisted code produced with GitHub Copilot, Claude, ChatGPT, and Cursor.",
+        "Translate product requirements into maintainable React/Next.js components and backend services, applying clean architecture, reusable APIs, code reviews, and security/versioning practices.",
+        "Investigate defects across browser, API, and data layers and optimize SQL-backed services, caching, and search queries to improve latency, reliability, and deployment readiness.",
+        "Develop AI agents with AutoGen and integrate AI tools through Model Context Protocol (MCP) to support knowledge retrieval and workflow automation.",
+        "Build asynchronous services and support Terraform-based Infrastructure as Code (IaC), CI/CD pipelines, and cloud deployments for application delivery.",
+        "Use Datadog and Grafana for monitoring, production troubleshooting, and reliability improvements across application services.",
+        "Support MLOps workflows for Python-based predictive models and RAG, including reproducible evaluation, model/version tracking considerations, and validation before integration with APIs.",
+        "Apply CI/CD, Docker, cloud deployment, and observability practices to AI-enabled services, monitoring latency, errors, and retrieval quality to support reliable production integration.",
+        "Apply client-facing delivery skills to clarify stakeholder requirements, communicate implementation progress, and support production releases."
       ]
     },
     {
@@ -177,16 +181,20 @@
       },
       "position": "Software Engineer",
       "jobType": "Fulltime",
-      "duration": "November 2022 To July 2023",
-      "location": "Toronto, Ontario, Canada",
+      "duration": "November 2022 To July 2024",
+      "location": "Remote, Ontario, Canada",
       "responsibilities": [
-        "A microservices project using C#, .NET Core, Azure, and more, improving scalability by 20%.",
-        "Engineered a system analyzing oil and gas extraction costs, cutting expenses by 15%.",
-        "Coordinated with the Technical Director, ensuring project alignment and efficiency gains of 25%.",
-        "Actively collaborated with programmers, enhancing project efficiency by 25%.",
-        "Innovated within the R&D team, contributing to the project's technological advancement.",
-        "Optimized Entity Framework Core, boosting database query speed by 25%.",
-        "Implemented CI/CD pipelines, cutting deployment time by 40%."
+        "Designed C#/.NET Core APIs, microservices, and asynchronous enterprise energy services with SQL Server, PostgreSQL, Docker, and Kubernetes.",
+        "Built Azure integrations with App Services, Functions, Service Bus, Key Vault, Application Gateway, and private networking, contributing to secure architecture, DevSecOps-aligned practices, testing, and Agile delivery.",
+        "Improved Azure DevOps, GitHub Actions, and Docker deployment workflows, reducing release cycles by 40%.",
+        "Monitored and investigated production issues with Application Insights, AKS, and Azure Container Apps, performing incident analysis and root-cause troubleshooting.",
+        "Developed integration layers for secure data exchange and messaging, tuned SQL Server/PostgreSQL queries, and supported unit and integration tests.",
+        "Partnered with stakeholders and engineering teams on technical design, backlog refinement, implementation milestones, documentation, and release planning.",
+        "Explored Python-based AI and machine-learning proof-of-concepts for operational data analysis, including data preparation, model evaluation, and integration considerations for enterprise services.",
+        "Investigated LLM-powered knowledge retrieval and RAG patterns for internal technical documentation, focusing on secure access to enterprise information and reliable API integration.",
+        "Applied AI-assisted development workflows to review code, support test-case creation, and accelerate troubleshooting while maintaining code-review, security, and validation standards.",
+        "Contributed to MLOps-oriented practices for AI/ML proof-of-concepts, including repeatable data preparation and documentation, model evaluation, and deployment-readiness checks.",
+        "Adapted Azure DevOps, Docker, and application-monitoring experience to AI-service delivery, emphasizing automated testing, secure configuration, operational alerts, and rollback readiness."
       ]
     },
     {
@@ -208,12 +216,10 @@
       "duration": "July 2021 To Nov 2022",
       "location": "Bangladesh - Remote",
       "responsibilities": [
-        "Contributed to the development of a dynamic fintech internal app in a collaborative team setting, utilizing technologies like C#, .NET Core, MVC, Web API, MSSQL, Entity Framework, Dapper, Microservices, Redis, PHP (Laravel), MySQL, JavaScript, Angular, Vue.js, jQuery, JSON, AJAX, XML, HTML, and CSS.",
-        "Played a key role in improving application responsiveness by 30% through the adoption of microservices architecture.",
-        "Actively collaborated with cross-functional teams, contributing to a 15% reduction in development time.",
-        "Participated in the implementation of Vue.js and Angular, contributing to a 25% increase in user satisfaction.",
-        "Contributed to the implementation of robust security measures, resulting in a 40% decrease in security-related incidents.",
-        "Played a role in conducting PHP (Laravel) and Angular training sessions, reducing onboarding time by 30%."
+        "Delivered fintech, SaaS, and e-commerce products using .NET Core Web API, React, Angular, Vue.js, SQL Server, and PostgreSQL, including transaction integrations and enterprise reporting.",
+        "Optimized frontend rendering and reusable components and contributed to a 40% reduction in production security incidents through API controls, testing, and code reviews.",
+        "Built database-backed workflows, third-party API integrations, validation, and error handling, coordinating with Product and QA in Agile releases.",
+        "Diagnosed defects across frontend, service, and database layers and maintained regression testing and code quality."
       ]
     },
     {
@@ -228,51 +234,64 @@
       },
       "position": "Software Engineer",
       "jobType": "Fulltime",
-      "duration": "October 2017 To June 2021",
+      "duration": "February 2017 To June 2021",
       "location": "Bangladesh",
       "responsibilities": [
-        "Engineered tailored software solutions for e-commerce and real estate industries, optimizing processes and boosting operational efficiency.",
-        "Designed and implemented a comprehensive HR software system, streamlining HR processes and elevating workforce management.",
-        "Developed a state-of-the-art online health care system, facilitating remote medical consultations and enhancing healthcare delivery.",
-        "Increased accessibility to healthcare services by 30%, contributing to efficient medical consultations.",
-        "Created a digital document archiving system, ensuring secure storage and seamless retrieval of essential records.",
-        "Improved document retrieval speed by 25%, enhancing overall operational efficiency.",
-        "Applied a diverse tech stack including ASP.NET, ASP.NET MVC, Web API, Entity Framework, ADO.NET, MSSQL, React JS, PHP (Laravel), MySQL, JavaScript, Angular, Vue.js, jQuery, JSON, AJAX, XML, HTML, CSS, and Azure."
-      ]
-    },
-    {
-      "company": {
-        "name": "PRIMEASIA UNIVERSITY",
-        "contact": [
-          {
-            "website": "https://www.primeasia.edu.bd/",
-            "logo": "https://raw.githubusercontent.com/arifuzzaman-tanin/arifuzzaman-tanin-resume/main/assets/images/primeasia-university-logo.png"
-          }
-        ]
-      },
-      "position": "Software Engineer",
-      "jobType": "Fulltime",
-      "duration": "February 2017 To October 2017",
-      "location": "Bangladesh",
-      "responsibilities": [
-        "Developed a university management system.",
-        "Crafted a robust university management system tailored for Primeasia University, marking my first post-graduation venture.",
-        "Optimized student information management, learning to improve data retrieval efficiency by 20%.",
-        "Streamlined course and curriculum management, gaining insights into reducing administrative workload by 15%.",
-        "Acquired proficiency in ASP.NET, MVC, Web API, and a versatile tech stack during the project.",
-        "Enhanced collaborative development skills using GitHub and project management tool."
+        "Built healthcare and enterprise SaaS systems with C#, .NET Framework/.NET Core, ASP.NET Web API, Entity Framework, and SQL Server.",
+        "Tuned SQL queries and indexes to reduce archive retrieval time by 25% and improve healthcare-system performance and accessibility by 30%.",
+        "Delivered REST APIs, reusable services, database-backed workflows, validation, and error handling and supported testing, deployments, and production issue resolution.",
+        "Worked with stakeholders to clarify requirements, maintain legacy services, and resolve functional and operational defects."
       ]
     }
   ],
   "projects": [
     {
+      "name": "RAG and AI-Agent Workflow Automation",
+      "description": "Developed Python-based RAG and AI-agent explorations for knowledge retrieval and workflow automation, evaluating prompts, retrieval behavior, latency, errors, and retrieval quality for reliable API integration.",
+      "technology": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "AutoGen",
+        "ChromaDB",
+        "Embeddings",
+        "MCP",
+        "LLM integrations"
+      ]
+    },
+    {
+      "name": "Customer Churn Classification",
+      "description": "Explored customer churn classification using property and customer data, with a focus on data preparation, reproducible evaluation, model performance, and deployment-readiness considerations.",
+      "technology": [
+        "Python",
+        "scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "MLOps"
+      ]
+    },
+    {
+      "name": "Home-Price Regression",
+      "description": "Explored home-price regression using property, location, and historical listing data, assessing model performance and integration considerations for production services.",
+      "technology": [
+        "Python",
+        "scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "PostgreSQL"
+      ]
+    },
+    {
       "name": "Concept Factory (CF++)",
-      "description": "Currently developing a mission-critical application for Petronas, Malaysia's premier oil and gas company, with the primary goal of analyzing mining costs. This ongoing project involves the implementation of advanced tools for real-time cost assessment, resource allocation optimization, and predictive maintenance, aimed at helping Petronas make informed decisions and maximize cost-efficiency in their mining operations.",
+      "description": "Designed APIs, microservices, asynchronous services, secure integrations, and data workflows for an enterprise energy platform, with production monitoring, deployment automation, and operational troubleshooting.",
       "technology": [
         ".NET Core API",
-        "MSSQL",
-        "Microservice",
-        "Azure"
+        "SQL Server",
+        "PostgreSQL",
+        "Microservices",
+        "Azure",
+        "Docker",
+        "Kubernetes"
       ]
     },
     {
